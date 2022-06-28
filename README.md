@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @adewuyifa
-- 👀 I’m interested in Geo-python
-- 🌱 I’m currently learning Python for spatial analysis
-- 💞️ I’m looking to collaborate on spatial analysis projects
+- 👀 I’m interested in Data science
+- 🌱 I’m currently learning Python for AI and machine learning
+- 💞️ I’m looking to collaborate on machine learning projects
 - 📫 How to reach me @adewuyifa on github
 
 <!---
